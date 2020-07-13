@@ -1,5 +1,15 @@
-### Hi there 👋
+## Hello, welcome MeilCli's profile
+- I'm .NET and Android engineer
+- The platforms or languages I'm good at are:
+  - C#
+  - .NET Standard
+  - Kotlin
+  - Android
+  - TypeScript
+  - GitHub Actions
 
+### How to reach me
+I will respond at twitter, [@penguin_sharp](https://twitter.com/penguin_sharp)
 <!--
 **MeilCli/MeilCli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
