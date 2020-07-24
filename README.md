@@ -21,6 +21,13 @@ I will respond at twitter, [@penguin_sharp](https://twitter.com/penguin_sharp)
 <a href="https://github.com/MeilCli/SharedProperty">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=SharedProperty" />
 </a>
+<a href="https://github.com/MeilCli/DetectionCore">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=DetectionCore" />
+</a>
+
+<a href="https://github.com/MobileAct/GithubLabelSetUpper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MobileAct&repo=GithubLabelSetUpper" />
+</a>
 <a href="https://github.com/MeilCli/Librarian">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=Librarian" />
 </a>
