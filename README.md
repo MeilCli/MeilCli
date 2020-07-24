@@ -26,7 +26,7 @@ I will respond at twitter, [@penguin_sharp](https://twitter.com/penguin_sharp)
 </a>
 
 <a href="https://github.com/MobileAct/GithubLabelSetUpper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MobileAct&repo=GithubLabelSetUpper" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MobileAct&repo=GithubLabelSetUpper&show_owner=true" />
 </a>
 <a href="https://github.com/MeilCli/Librarian">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=Librarian" />
