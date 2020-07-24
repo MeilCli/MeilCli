@@ -19,8 +19,8 @@ I will respond at twitter, [@penguin_sharp](https://twitter.com/penguin_sharp)
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=Librarian" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=Librarian" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=SharedProperty" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=SharedProperty" />
 </a>
