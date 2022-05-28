@@ -42,8 +42,8 @@ I will respond at twitter, [@penguin_sharp](https://twitter.com/penguin_sharp)
 
 ### GitHub Action of check updates
 [<img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=npm-update-check-action">](https://github.com/MeilCli/npm-update-check-action)
-[<img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=gradle-update-check-action">](https://github.com/MeilCli/gradle-update-check-action)
 [<img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=nuget-update-check-action">](https://github.com/MeilCli/nuget-update-check-action)
+[<img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=gradle-update-check-action">](https://github.com/MeilCli/gradle-update-check-action)
 [<img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=swiftpm-update-check-action">](https://github.com/MeilCli/swiftpm-update-check-action)
 [<img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=carthage-update-check-action">](https://github.com/MeilCli/carthage-update-check-action)
 [<img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=cocoapods-update-check-action">](https://github.com/MeilCli/cocoapods-update-check-action)
