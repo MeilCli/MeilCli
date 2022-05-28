@@ -2,8 +2,8 @@
 
 ## Metrics
 
-[<img align="left" width="390" src="./metrics_left.svg">](#)
-[<img align="right" width="390" src="./metrics_right.svg">](#)
+[<img align="center" width="390" src="./metrics_left.svg">](#)
+[<img align="center" width="390" src="./metrics_right.svg">](#)
 
 <br clear="both"/>
   
