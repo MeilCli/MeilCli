@@ -2,8 +2,8 @@
 
 ## Metrics
 
-[<img align="center" width="390" src="./metrics_left.svg">](#)
-[<img align="center" width="390" src="./metrics_right.svg">](#)
+[<img align="center" width="49%" src="./metrics_left.svg">](#)
+[<img align="center" width="49%" src="./metrics_right.svg">](#)
 
 <br clear="both"/>
   
@@ -18,17 +18,17 @@ I will respond at twitter, [@penguin_sharp](https://twitter.com/penguin_sharp)
 ## My Repositories
 ### GitHub Action for develop GitHub Action 
 
-[<img align="left" width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=action-template">](https://github.com/MeilCli/action-template)
-[<img align="right" width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=bump-release-action">]([https://github.com/MeilCli/Librarian](https://github.com/MeilCli/bump-release-action))
+[<img align="center" width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=action-template">](https://github.com/MeilCli/action-template)
+[<img align="center" width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=bump-release-action">]([https://github.com/MeilCli/Librarian](https://github.com/MeilCli/bump-release-action))
 
-[<img align="left" width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=test-command-action">](https://github.com/MeilCli/test-command-action)
+[<img align="center" width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=test-command-action">](https://github.com/MeilCli/test-command-action)
 <br clear="both"/>
 
 ### GitHub Action for about PullRequest or Issue
-[<img align="left" width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=danger-action">](https://github.com/MeilCli/danger-action)
-[<img align="right" width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=hidable-comment-action">](https://github.com/MeilCli/hidable-comment-action)
+[<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=danger-action">](https://github.com/MeilCli/danger-action)
+[<img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=hidable-comment-action">](https://github.com/MeilCli/hidable-comment-action)
 
-[<img align="left" width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=common-lint-reporter">](https://github.com/MeilCli/common-lint-reporter)
+[<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=common-lint-reporter">](https://github.com/MeilCli/common-lint-reporter)
 
 <br clear="both"/>
 
