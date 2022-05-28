@@ -25,25 +25,22 @@ jobs:
           # Options
           user: MeilCli
           template: classic
-          base: header, repositories, metadata
+          base: header, repositories
           config_timezone: Asia/Tokyo
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: C
           plugin_languages: yes
+          plugin_languages_details: lines, bytes-size, percentage
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_limit: 8
+          plugin_languages_limit: 5
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used
+          plugin_languages_sections: most-used, recently-used
           plugin_languages_threshold: 0%
-          plugin_repositories: yes
-          plugin_repositories_featured: MeilCli/danger-action,MeilCli/setup-crystal
-          plugin_repositories_affiliations: owner
-          plugin_repositories_batch: 100
           plugin_stargazers: yes
           plugin_stargazers_charts_type: classic
