@@ -165,12 +165,5 @@
     <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=Librarian">
   </picture>
 </a>
-<a href="https://github.com/MeilCli/notion-db-notification">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=notion-db-notification&theme=react">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=notion-db-notification">
-    <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=notion-db-notification">
-  </picture>
-</a>
 <br clear="both"/>
 
