@@ -35,13 +35,6 @@
     <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=bump-release-action">
   </picture>
 </a>
-<a href="https://github.com/MeilCli/test-command-action">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=test-command-action&theme=react">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=test-command-action">
-    <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=test-command-action">
-  </picture>
-</a>
 <br clear="both"/>
 
 ### GitHub Action for about PullRequest or Issue
@@ -86,13 +79,6 @@
     <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=regex-match">
   </picture>
 </a>
-<a href="https://github.com/MeilCli/setup-crystal-action">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=setup-crystal-action&theme=react">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=setup-crystal-action">
-    <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=setup-crystal-action">
-  </picture>
-</a>
 <br clear="both"/>
 
 ### GitHub Action of check updates
@@ -115,44 +101,6 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=gradle-update-check-action&theme=react">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=gradle-update-check-action">
     <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=gradle-update-check-action">
-  </picture>
-</a>
-<a href="https://github.com/MeilCli/swiftpm-update-check-action">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=swiftpm-update-check-action&theme=react">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=swiftpm-update-check-action">
-    <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=swiftpm-update-check-action">
-  </picture>
-</a>
-<a href="https://github.com/MeilCli/carthage-update-check-action">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=carthage-update-check-action&theme=react">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=carthage-update-check-action">
-    <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=carthage-update-check-action">
-  </picture>
-</a>
-<a href="https://github.com/MeilCli/cocoapods-update-check-action">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=cocoapods-update-check-action&theme=react">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=cocoapods-update-check-action">
-    <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=cocoapods-update-check-action">
-  </picture>
-</a>
-<br clear="both"/>
-
-### GitHub Action for statistics
-<a href="https://github.com/MeilCli/detekt-statistics">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=detekt-statistics&theme=react">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=detekt-statistics">
-    <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=detekt-statistics">
-  </picture>
-</a>
-<a href="https://github.com/MeilCli/android-lint-statistics">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=android-lint-statistics&theme=react">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=android-lint-statistics">
-    <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=android-lint-statistics">
   </picture>
 </a>
 <br clear="both"/>
