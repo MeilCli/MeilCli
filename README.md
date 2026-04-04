@@ -11,13 +11,6 @@
 ## Repositories
 ### GitHub Action for develop GitHub Action 
 
-<a href="https://github.com/MeilCli/action-template">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=action-template&theme=react">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=action-template">
-    <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=action-template">
-  </picture>
-</a>
 <a href="https://github.com/MeilCli/bump-release-action">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MeilCli&repo=bump-release-action&theme=react">
